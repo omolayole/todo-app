@@ -10,5 +10,5 @@ You can
 
 ## Link
 
-To view live page, click [here](https://omolayole.github.io/todo-app/).
+To view live page, click [here](https://todo-app-28e4cc.netlify.com/).
 
